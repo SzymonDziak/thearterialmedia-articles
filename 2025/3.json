@@ -1,0 +1,12 @@
+{
+    "month": "March 2025",
+    "articles": [
+        {
+            "index": 1,
+            "title": "MARCH ARTICLES",
+            "description": "Sample",
+            "authors": "John Doe, Jane Doe, Jack Doe, et al 🔗",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/"
+        }
+    ]
+}
