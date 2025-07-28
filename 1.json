@@ -1,0 +1,41 @@
+{
+    "month": "Dec 2025",
+    "articles": [
+        {
+            "index": 1,
+            "title": "Circulation",
+            "description": "Racial Disparities in Long-Term Outcomes After Endovascular Aortic Aneurysm Repair in Black and White Medicare Beneficiaries",
+            "authors": "Abena Appah-Sampong, Christina Marcaccio, Siling Li, et al. 🔗",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/40190277/"
+        },
+        {
+            "index": 2,
+            "title": "JACS",
+            "description": "Outcomes of Retroperitoneal vs Transperitoneal Approach for Open Abdominal Aortic Aneurysm Repair Stratified by Aortic Cross-Clamping Site ",
+            "authors": "Mohammed Hamouda, Ahmed Abdelkarim, Mikayla Kricfalusi, et al. 🔗",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/39960179/"
+        },
+        {
+            "index": 3,
+            "title": "Vascular",
+            "description": "Generative artificial intelligence chatbots may provide appropriate informational responses to common vascular surgery questions by patients ",
+            "authors": "Ethan Chervonski, Keerthi B. Harish, Caron B. Rockman, et al. 🔗",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/38500300/"
+        },
+        {
+            "index": 4,
+            "title": "EJVES",
+            "description": "Clinical Practice Guidelines on the Management of Diseases of the Mesenteric and Renal Arteries and Veins ",
+            "authors": "Mark Koelemay, Robert Geelkerken, Jussi Kärkkäinen, et al. 🔗",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/40513642/"
+        },
+        {
+            "index": 5,
+            "title": "JVS",
+            "description": "Graduating vascular surgery trainee proficiency in endovascular and open peripheral revascularization procedures",
+            "authors": "Erin Buchanan, Ting Sun, Brigitte Smith, et al. 🔗",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/39384054/"
+        },
+
+    ]
+}
