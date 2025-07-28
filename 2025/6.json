@@ -1,0 +1,41 @@
+{
+    "month": "June 2025",
+    "articles": [
+        {
+            "index": 1,
+            "title": "JAMA Cardiology",
+            "description": "Temporal and Geographic Trends in the Treatment of Peripheral Arterial Disease Stratified by Race Among Medicare Beneficiaries ",
+            "authors": "Birgit Vogel, Katerina Dangas, Francesca Di Muro, et al. 🔗",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/40498478/"
+        },
+        {
+            "index": 2,
+            "title": "JAMA Network Open",
+            "description": "Outcomes of Endovascular Treatment in Patients With Vertebrobasilar Artery Occlusion Beyond 24 Hours",
+            "authors": "Shuai Liu, Yongbo Xu, Thanh Nguyen, et al. 🔗",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/40512496/"
+        },
+        {
+            "index": 3,
+            "title": "JACC",
+            "description": "Differences in Arterial Events in Vascular Ehlers-Danlos, Loeys-Dietz, and Marfan Syndrome",
+            "authors": "Ernesto Calderon-Martinez, Walter Velasco, Dongchuan Guo, et al. 🔗",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/40533124/"
+        },
+        {
+            "index": 4,
+            "title": "JACC",
+            "description": "Long-Acting Factor XI Inhibition and Periprocedural Bleeding: An Analysis From AZALEA-TIMI 71",
+            "authors": "Siddharth Patel, Robert Giugliano, David Morrow, et al. 🔗",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/40499984/"
+        },
+        {
+            "index": 5,
+            "title": "JACS",
+            "description": "Association of Discharge Against Medical Advice with Surgical Outcomes and Healthcare Cost",
+            "authors": "Azza Sarfraz, Mujtaba Khalil, Selamawit Woldesenbet, et al. 🔗",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/40568963/"
+        },
+
+    ]
+}
