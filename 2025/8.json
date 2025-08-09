@@ -17,21 +17,21 @@
         },
         {
             "index": 3,
-            "title": "Annals of Vascular Surgery",
+            "title": "AVS",
             "description": "Impact of Osteoporosis on Overall Survival Following Endovascular Aneurysm Repair",
             "authors": "Ozawa H, Nagamine Y, Harada H, et al. 🔗",
             "url": "https://pubmed.ncbi.nlm.nih.gov/39208917/"
         },
         {
             "index": 4,
-            "title": "Journal of Vascular Surgery",
+            "title": "JVS",
             "description": "Practice Patterns and Barriers to Vascular Genetic Testing Among Surgeons",
             "authors": "Dittman JM, Zettervall SL, Hiratzka LF, et al. 🔗",
             "url": "https://pubmed.ncbi.nlm.nih.gov/38599485/"
         },
         {
             "index": 5,
-            "title": "Annals of Vascular Surgery",
+            "title": "AVS",
             "description": "Cognitive Impairment is Common and Unrecognized in Vascular Surgery Patients",
             "authors": "Berceli SA, Darling J, Nelson PR, et al. 🔗",
             "url": "https://pubmed.ncbi.nlm.nih.gov/39580029/"
@@ -42,20 +42,7 @@
             "description": "Multiomic Analysis of Calf Muscle in Peripheral Artery Disease and Chronic Kidney Disease",
             "authors": "Berceli SA, Wang Y, Misra S, et al. 🔗",
             "url": "https://pubmed.ncbi.nlm.nih.gov/39972115/"
-        },
-        {
-            "index": 7,
-            "title": "Frontiers in Cardiovascular Medicine",
-            "description": "Data Source and Utilization of Artificial Intelligence in Vascular Surgery Research",
-            "authors": "Powezka K, Hameed I, Sritharan K, et al. 🔗",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/40228265/"
-        },
-        {
-            "index": 8,
-            "title": "International Journal of Clinical Pharmacy",
-            "description": "Pharmacist-Led Interventions for Vascular Surgery Patients",
-            "authors": "Porubcova S, Vlcek J, Kozlik P, et al. 🔗",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/40126124/"
         }
     ]
 }
+
