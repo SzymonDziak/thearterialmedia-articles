@@ -3,10 +3,59 @@
     "articles": [
         {
             "index": 1,
-            "title": "JAMA Cardiology",
-            "description": "Temporal and Geographic Trends in the Treatment of Peripheral Arterial Disease Stratified by Race Among Medicare Beneficiaries ",
-            "authors": "Birgit Vogel, Katerina Dangas, Francesca Di Muro, et al. 🔗",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/40498478/"
+            "title": "JAMA Surgery",
+            "description": "Drug–Gene Interactions and Clinical Outcomes After Vascular Surgery",
+            "authors": "Tuteja S, Damrauer SM, Nathan AS, et al. 🔗",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/40465239/"
+        },
+        {
+            "index": 2,
+            "title": "Circulation",
+            "description": "Association of Statin Treatment and Dose With the Clinical Course of Abdominal Aortic Aneurysm",
+            "authors": "Skovbo JS, Lindholt JS, Hallas J, et al. 🔗",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/40631665/"
+        },
+        {
+            "index": 3,
+            "title": "Annals of Vascular Surgery",
+            "description": "Impact of Osteoporosis on Overall Survival Following Endovascular Aneurysm Repair",
+            "authors": "Ozawa H, Nagamine Y, Harada H, et al. 🔗",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/39208917/"
+        },
+        {
+            "index": 4,
+            "title": "Journal of Vascular Surgery",
+            "description": "Practice Patterns and Barriers to Vascular Genetic Testing Among Surgeons",
+            "authors": "Dittman JM, Zettervall SL, Hiratzka LF, et al. 🔗",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/38599485/"
+        },
+        {
+            "index": 5,
+            "title": "Annals of Vascular Surgery",
+            "description": "Cognitive Impairment is Common and Unrecognized in Vascular Surgery Patients",
+            "authors": "Berceli SA, Darling J, Nelson PR, et al. 🔗",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/39580029/"
+        },
+        {
+            "index": 6,
+            "title": "Circulation Research",
+            "description": "Multiomic Analysis of Calf Muscle in Peripheral Artery Disease and Chronic Kidney Disease",
+            "authors": "Berceli SA, Wang Y, Misra S, et al. 🔗",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/39972115/"
+        },
+        {
+            "index": 7,
+            "title": "Frontiers in Cardiovascular Medicine",
+            "description": "Data Source and Utilization of Artificial Intelligence in Vascular Surgery Research",
+            "authors": "Powezka K, Hameed I, Sritharan K, et al. 🔗",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/40228265/"
+        },
+        {
+            "index": 8,
+            "title": "International Journal of Clinical Pharmacy",
+            "description": "Pharmacist-Led Interventions for Vascular Surgery Patients",
+            "authors": "Porubcova S, Vlcek J, Kozlik P, et al. 🔗",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/40126124/"
         }
     ]
 }
