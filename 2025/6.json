@@ -1,40 +1,68 @@
 {
-    "month": "June 2025",
-    "articles": [
-        {
-            "index": 1,
-            "title": "JAMA Cardiology",
-            "description": "Temporal and Geographic Trends in the Treatment of Peripheral Arterial Disease Stratified by Race Among Medicare Beneficiaries ",
-            "authors": "Birgit Vogel, Katerina Dangas, Francesca Di Muro, et al. 🔗",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/40498478/"
-        },
-        {
-            "index": 2,
-            "title": "JAMA Network Open",
-            "description": "Outcomes of Endovascular Treatment in Patients With Vertebrobasilar Artery Occlusion Beyond 24 Hours",
-            "authors": "Shuai Liu, Yongbo Xu, Thanh Nguyen, et al. 🔗",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/40512496/"
-        },
-        {
-            "index": 3,
-            "title": "JACC",
-            "description": "Differences in Arterial Events in Vascular Ehlers-Danlos, Loeys-Dietz, and Marfan Syndrome",
-            "authors": "Ernesto Calderon-Martinez, Walter Velasco, Dongchuan Guo, et al. 🔗",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/40533124/"
-        },
-        {
-            "index": 4,
-            "title": "JACC",
-            "description": "Long-Acting Factor XI Inhibition and Periprocedural Bleeding: An Analysis From AZALEA-TIMI 71",
-            "authors": "Siddharth Patel, Robert Giugliano, David Morrow, et al. 🔗",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/40499984/"
-        },
-        {
-            "index": 5,
-            "title": "JACS",
-            "description": "Association of Discharge Against Medical Advice with Surgical Outcomes and Healthcare Cost",
-            "authors": "Azza Sarfraz, Mujtaba Khalil, Selamawit Woldesenbet, et al. 🔗",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/40568963/"
-        }
-    ]
+  "month": "June 2025",
+  "articles": [
+    {
+      "index": 1,
+      "title": "JAMA Cardiology",
+      "description": "Temporal and Geographic Trends in the Treatment of Peripheral Arterial Disease Stratified by Race Among Medicare Beneficiaries",
+      "authors": "Vogel B, Dangas K, Di Muro F, et al.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40498478/"
+    },
+    {
+      "index": 2,
+      "title": "JAMA Network Open",
+      "description": "Outcomes of Endovascular Treatment in Patients With Vertebrobasilar Artery Occlusion Beyond 24 Hours",
+      "authors": "Liu S, Xu Y, Nguyen T, et al.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40512496/"
+    },
+    {
+      "index": 3,
+      "title": "JACC",
+      "description": "Differences in Arterial Events in Vascular Ehlers-Danlos, Loeys-Dietz, and Marfan Syndrome",
+      "authors": "Calderon-Martinez E, Velasco W, Guo D, et al.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40533124/"
+    },
+    {
+      "index": 4,
+      "title": "JACC",
+      "description": "Long-Acting Factor XI Inhibition and Periprocedural Bleeding: An Analysis From AZALEA-TIMI 71",
+      "authors": "Patel S, Giugliano R, Morrow D, et al.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40499984/"
+    },
+    {
+      "index": 5,
+      "title": "JACS",
+      "description": "Association of Discharge Against Medical Advice with Surgical Outcomes and Healthcare Cost",
+      "authors": "Sarfraz A, Khalil M, Woldesenbet S, et al.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40568963/"
+    },
+    {
+      "index": 6,
+      "title": "AVS",
+      "description": "TEVAR Versus Optimal Medical Therapy for Uncomplicated Type B Aortic Dissection: A Systematic Review & Meta-analysis",
+      "authors": "Jubouri M, Surkhi AO, Alsarayrah AI, et al.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40582458/"
+    },
+    {
+      "index": 7,
+      "title": "AVS",
+      "description": "Perioperative and Mid-term Outcome of Prefabricated Bovine Pericardial Grafts in the Context of Infected Aortic/Iliac Pathologies",
+      "authors": "Celi de la Torre J, Jakober N, Jung G, et al.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40582455/"
+    },
+    {
+      "index": 8,
+      "title": "JVS",
+      "description": "Comparative Effectiveness of Suction Thrombectomy vs. Catheter-Directed Thrombolysis in Intermediate-Risk Pulmonary Embolism",
+      "authors": "Alie-Cusson FS, Jarosinski M, Reitz KM, et al.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40543679/"
+    },
+    {
+      "index": 9,
+      "title": "AVS",
+      "description": "Sex-Based Outcomes with Catheter-Directed and Ultrasound-Assisted Thrombolysis for Acute Limb Ischemia",
+      "authors": "Nguyen T, Dargan C, Penuela M, et al.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40582454/"
+    }
+  ]
 }
