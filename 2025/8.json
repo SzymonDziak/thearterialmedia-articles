@@ -4,7 +4,7 @@
     {
       "index": 1,
       "title": "JAMA Surgery",
-      "description": "Testing a new name, Drug–Gene Interactions and Clinical Outcomes After Vascular Surgery",
+      "description": "Drug–Gene Interactions and Clinical Outcomes After Vascular Surgery",
       "authors": "Tuteja S, Damrauer SM, Nathan AS, et al.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/40465239/"
     },
@@ -66,3 +66,4 @@
     }
   ]
 }
+
