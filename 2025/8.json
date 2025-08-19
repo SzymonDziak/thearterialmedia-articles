@@ -45,25 +45,26 @@
     },
     {
       "index": 7,
-      "title": "Catheter Cardiovasc Interv",
+      "title": "Cardiovascular Intervention",
       "description": "The Utilization of Superficial Femoral Artery Access for Transcatheter Aortic Valve Replacement and Peripheral Vascular Interventions: A Systematic Review and Meta-Analysis",
       "authors": "Dave P, Alfaifi A, Traynor B, et al.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/40767491/"
     },
     {
       "index": 8,
-      "title": "J Vasc Surg",
+      "title": "JVS",
       "description": "Dual Antiplatelet Therapy vs. Monotherapy After Surgical Intervention for Chronic Limb-Threatening Ischemia: Systematic Review and Meta-Analysis with Endovascular Subanalysis",
       "authors": "Camarotti TA de A F, Camarotti MT, Donato KO, et al.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/40774361/"
     },
     {
       "index": 9,
-      "title": "J Vasc Surg Venous Lymphat Disord",
+      "title": "JVS Venous & Lymphatic",
       "description": "Effectiveness and Safety of Sirolimus in the Treatment of Venous Malformations: A Meta-Analysis of Prospective Studies",
       "authors": "Wang G, Lu W, Zhu Y, Wang C, Yang X, et al.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/40619100/"
     }
   ]
 }
+
 
