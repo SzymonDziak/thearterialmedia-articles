@@ -1,1 +1,70 @@
+{
+  "month": "April 2025",
+  "articles": [
+    {
+      "index": 1,
+      "title": "AVS",
+      "description": "Totally Extravascular Bioresorbable Closure Reduces Access Complications after Endovascular Peripheral Intervention",
+      "authors": "Bystrom PV, Kulangara R, El Khoury R, et al.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40316207/"
+    },
+    {
+      "index": 2,
+      "title": "JVS",
+      "description": "Infrarenal and juxtarenal abdominal aortic aneurysm repair in young patients",
+      "authors": "Bertagna G, Juszczak M, Vezzosi M, et al.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40306599/"
+    },
+    {
+      "index": 3,
+      "title": "JVS",
+      "description": "Mid-term outcomes of Shockwave intravascular lithotripsy in the IVLIAC Registry for the treatment of calcified iliac occlusive disease",
+      "authors": "Fazzini S, Turriziani V, Lomazzi C, et al.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40268258/"
+    },
+    {
+      "index": 4,
+      "title": "JVS",
+      "description": "Natural history of asymptomatic mesenteric artery occlusive disease and predictors of symptomatic progression",
+      "authors": "Harish KB, Chervonski E, Rokosh RS, et al.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40254189/"
+    },
+    {
+      "index": 5,
+      "title": "JVS",
+      "description": "Cumulative risks for reoperation due to bleeding after carotid endarterectomy and the associated clinical impact of bleeding events",
+      "authors": "Weise L, Darman L, Yirga E, et al.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40311948/"
+    },
+    {
+      "index": 6,
+      "title": "JVS",
+      "description": "Society for Vascular Surgery Clinical Practice Guideline on the management of intermittent claudication: Focused update",
+      "authors": "Conte MS, Aulivola B, Barshes NR, et al.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40316185/"
+    },
+    {
+      "index": 7,
+      "title": "JVS",
+      "description": "Dual Antiplatelet Therapy After Iliac Artery Stenting for Peripheral Artery Disease: Association with Survival, Limb Salvage, and MALE",
+      "authors": "Ebertz DP, et al.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40262658/"
+    },
+    {
+      "index": 8,
+      "title": "JVS Venous Lymphat Disord",
+      "description": "Three-Year Outcomes of Surgical Implantation of a Novel VenoValve for Post-Thrombotic Syndrome",
+      "authors": "Cifuentes S, et al.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40252802/"
+    },
+    {
+      "index": 9,
+      "title": "JACS",
+      "description": "Early Thoracic Endovascular Aortic Repair for Acute Type B Aortic Dissection: Timing and Outcomes",
+      "authors": "Potter HA, et al.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40233894/"
+    }
+  ]
+}
+
 
