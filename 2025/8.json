@@ -1,49 +1,68 @@
 {
-    "month": "August 2025",
-    "articles": [
-        {
-            "index": 1,
-            "title": "JAMA Surgery",
-            "description": "Testing a new name, Drug–Gene Interactions and Clinical Outcomes After Vascular Surgery",
-            "authors": "Tuteja S, Damrauer SM, Nathan AS, et al. 🔗",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/40465239/"
-        },
-        {
-            "index": 2,
-            "title": "Circulation",
-            "description": "Association of Statin Treatment and Dose With the Clinical Course of Abdominal Aortic Aneurysm",
-            "authors": "Skovbo JS, Lindholt JS, Hallas J, et al. 🔗",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/40631665/"
-        },
-        {
-            "index": 3,
-            "title": "AVS",
-            "description": "Impact of Osteoporosis on Overall Survival Following Endovascular Aneurysm Repair",
-            "authors": "Ozawa H, Nagamine Y, Harada H, et al. 🔗",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/39208917/"
-        },
-        {
-            "index": 4,
-            "title": "JVS",
-            "description": "Practice Patterns and Barriers to Vascular Genetic Testing Among Surgeons",
-            "authors": "Dittman JM, Zettervall SL, Hiratzka LF, et al. 🔗",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/38599485/"
-        },
-        {
-            "index": 5,
-            "title": "AVS",
-            "description": "Cognitive Impairment is Common and Unrecognized in Vascular Surgery Patients",
-            "authors": "Berceli SA, Darling J, Nelson PR, et al. 🔗",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/39580029/"
-        },
-        {
-            "index": 6,
-            "title": "Circulation Research",
-            "description": "Multiomic Analysis of Calf Muscle in Peripheral Artery Disease and Chronic Kidney Disease",
-            "authors": "Berceli SA, Wang Y, Misra S, et al. 🔗",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/39972115/"
-        }
-    ]
+  "month": "August 2025",
+  "articles": [
+    {
+      "index": 1,
+      "title": "JAMA Surgery",
+      "description": "Testing a new name, Drug–Gene Interactions and Clinical Outcomes After Vascular Surgery",
+      "authors": "Tuteja S, Damrauer SM, Nathan AS, et al.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40465239/"
+    },
+    {
+      "index": 2,
+      "title": "Circulation",
+      "description": "Association of Statin Treatment and Dose With the Clinical Course of Abdominal Aortic Aneurysm",
+      "authors": "Skovbo JS, Lindholt JS, Hallas J, et al.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40631665/"
+    },
+    {
+      "index": 3,
+      "title": "AVS",
+      "description": "Impact of Osteoporosis on Overall Survival Following Endovascular Aneurysm Repair",
+      "authors": "Ozawa H, Nagamine Y, Harada H, et al.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39208917/"
+    },
+    {
+      "index": 4,
+      "title": "JVS",
+      "description": "Practice Patterns and Barriers to Vascular Genetic Testing Among Surgeons",
+      "authors": "Dittman JM, Zettervall SL, Hiratzka LF, et al.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38599485/"
+    },
+    {
+      "index": 5,
+      "title": "AVS",
+      "description": "Cognitive Impairment is Common and Unrecognized in Vascular Surgery Patients",
+      "authors": "Berceli SA, Darling J, Nelson PR, et al.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39580029/"
+    },
+    {
+      "index": 6,
+      "title": "Circulation Research",
+      "description": "Multiomic Analysis of Calf Muscle in Peripheral Artery Disease and Chronic Kidney Disease",
+      "authors": "Berceli SA, Wang Y, Misra S, et al.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39972115/"
+    },
+    {
+      "index": 7,
+      "title": "Catheter Cardiovasc Interv",
+      "description": "The Utilization of Superficial Femoral Artery Access for Transcatheter Aortic Valve Replacement and Peripheral Vascular Interventions: A Systematic Review and Meta-Analysis",
+      "authors": "Dave P, Alfaifi A, Traynor B, et al.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40767491/"
+    },
+    {
+      "index": 8,
+      "title": "J Vasc Surg",
+      "description": "Dual Antiplatelet Therapy vs. Monotherapy After Surgical Intervention for Chronic Limb-Threatening Ischemia: Systematic Review and Meta-Analysis with Endovascular Subanalysis",
+      "authors": "Camarotti TA de A F, Camarotti MT, Donato KO, et al.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40774361/"
+    },
+    {
+      "index": 9,
+      "title": "J Vasc Surg Venous Lymphat Disord",
+      "description": "Effectiveness and Safety of Sirolimus in the Treatment of Venous Malformations: A Meta-Analysis of Prospective Studies",
+      "authors": "Wang G, Lu W, Zhu Y, Wang C, Yang X, et al.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40619100/"
+    }
+  ]
 }
-
-
